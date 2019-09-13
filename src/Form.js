@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { withFormik, Form, Field } from 'formik'
 // formik handles our Forms and input fields
 import * as yup from 'yup'
-const TEamForm = ( { errors, touched}) => {
+const TeamForm = ( { errors, touched}) => {
 // const AnimalForm = (props) => {
   // you can deconstruct this by saying const ANimalFOrm = ( { error }) so that it will know that props.error is the same as errors
   return (

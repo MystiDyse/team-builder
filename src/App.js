@@ -1,5 +1,5 @@
-import React, { useState } from 'react';;
-import TeamForm from './Form'
+import React, { useState } from 'react';
+import TeamForm from './Form';
 
 export const people = ['Mysti Dyse','Alley Way','Sun Shine','Pearly Whites','No Name Jenkins',]
 
